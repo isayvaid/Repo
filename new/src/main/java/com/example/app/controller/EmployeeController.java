@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 import java.util.List;
-//This is controller class
+
 @RestController
 public class EmployeeController {
 

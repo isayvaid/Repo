@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
-//this is employee class
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
