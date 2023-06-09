@@ -17,7 +17,7 @@
 	<java.version>11</java.version>
 </properties>
 <dependencies>
-	<!-- Swagger  -->
+	<!-- Added Swagger   -->
 	<dependency>
 		<groupId>org.springdoc</groupId>
 		<artifactId>springdoc-openapi-ui</artifactId>
